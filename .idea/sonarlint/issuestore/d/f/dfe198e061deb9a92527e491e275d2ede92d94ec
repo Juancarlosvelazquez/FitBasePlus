@@ -1,0 +1,17 @@
+
+W
+java:S1128":Remove this unused import 'com.code.fitbase.MainActivity'.(ŠõİÇ8æ’Şâ°.
+P
+java:S1128"4Remove this unused import 'android.graphics.Bitmap'.(¾ì8º¬øâ°.
+]	java:S125Q"<This block of commented-out lines of code should be removed.(Òğö“øÿÿÿÿ8ƒ’Öã°.
+]	java:S125S"<This block of commented-out lines of code should be removed.(ÿ¡ÿÜûÿÿÿÿ8ƒ’Öã°.
+X	java:S125O"<This block of commented-out lines of code should be removed.(ëÍÜ8Î”Øã°.
+]	java:S125["<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ƒ’Öã°.
+W	java:S125_"<This block of commented-out lines of code should be removed.(èöÛ+8Âøìã°.
+„
+java:S1488:"bImmediately return this expression instead of assigning it to the temporary variable "viewHolder".(µ·¼‘øÿÿÿÿ8ĞœÉá°.
+]	java:S1250"<This block of commented-out lines of code should be removed.(¸°ôäşÿÿÿÿ8ĞœÉá°.
+S
+java:S1128"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ8Äı×á°.
+]	java:S125Y"<This block of commented-out lines of code should be removed.(§ˆçùÿÿÿÿ8ƒ’Öã°.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…†Ëğ

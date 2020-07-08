@@ -1,0 +1,35 @@
+
+T
+java:S1135P"2Complete the task associated to this TODO comment.(ßíŠÿÿÿÿÿ8ë¤»Ø°.
+P
+java:S1135ã"2Complete the task associated to this TODO comment.(åµÈ¶8„û‡Ú°.
+l
+java:S14507"VRemove the "mParam1" field and declare it as a local variable in the relevant methods.(•Íï‘
+J
+java:S1068<"-Remove this unused "modelList" private field.(—±Œ¦8ŠÆ¯ƒ±.
+^	java:S125€"<This block of commented-out lines of code should be removed.(Üœ©—üÿÿÿÿ8ï¯ƒ±.
+H
+java:S10687"+Remove this unused "mParam1" private field.(•Íï‘8ë¤»Ø°.
+]	java:S125}"<This block of commented-out lines of code should be removed.(ÿúÜëùÿÿÿÿ8ï¯ƒ±.
+T
+java:S11356"2Complete the task associated to this TODO comment.(ğï¢öúÿÿÿÿ8ë¤»Ø°.
+^	java:S125Á"<This block of commented-out lines of code should be removed.(ÿşäüÿÿÿÿ8™º´ƒ±.
+]	java:S125s"<This block of commented-out lines of code should be removed.(›ÕªÔûÿÿÿÿ8ï¯ƒ±.
+P
+java:S1135®"2Complete the task associated to this TODO comment.(ŒÀÇ 8™º´ƒ±.
+o	java:S101‡"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¯è³øÿÿÿÿ8Š°ƒ±.
+l
+java:S14508"VRemove the "mParam2" field and declare it as a local variable in the relevant methods.(¡ˆ€ 
+c	java:S112ğ"FDefine and throw a dedicated exception instead of using a generic one.(İŒÜ±8„û‡Ú°.
+y
+java:S1128"WRemove this unused import 'com.allattentionhere.autoplayvideos.AAH_CustomRecyclerView'.(™ó‚Îûÿÿÿÿ8Á¹¡Ö°.
+T
+java:S1135."2Complete the task associated to this TODO comment.(ÜûŠ—øÿÿÿÿ8ë¤»Ø°.
+X	java:S125j"<This block of commented-out lines of code should be removed.(¤Ÿğé8ï¯ƒ±.
+d
+java:S1128"BRemove this unused import 'com.code.fitbase.room.products.Prizes'.(÷ŒÂšùÿÿÿÿ8òç°ƒ±.
+H
+java:S10688"+Remove this unused "mParam2" private field.(¡ˆ€ 8ë¤»Ø°.
+Y	java:S125†"<This block of commented-out lines of code should be removed.(ìîÏ 8Œû¦û°.
+P
+java:S1135–"2Complete the task associated to this TODO comment.(‡‚ùˆ8„û‡Ú°.

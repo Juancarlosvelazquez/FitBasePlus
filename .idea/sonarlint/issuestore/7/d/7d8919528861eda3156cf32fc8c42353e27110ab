@@ -1,0 +1,48 @@
+
+^	java:S125Ÿ"<This block of commented-out lines of code should be removed.(å›Åºüÿÿÿÿ8ì¥ƒÿ°.
+~
+java:S1450_"\Remove the "playWhenReady" field and declare it as a local variable in the relevant methods.(ïôèÑþÿÿÿÿ8–©÷þ°.
+X	java:S125²"<This block of commented-out lines of code should be removed.(ùÁ”P8óôóü°.
+^	java:S125¸"<This block of commented-out lines of code should be removed.(öšöøÿÿÿÿ8óôóü°.
+^	java:S125µ"<This block of commented-out lines of code should be removed.(Ýä®ùÿÿÿÿ8óôóü°.
+X	java:S125º"<This block of commented-out lines of code should be removed.(þ€Óg8¶ó¦„±.
+T
+java:S1135{"2Complete the task associated to this TODO comment.(ßíŠÿÿÿÿÿ8÷æöû°.
+O
+java:S1128"2Remove this unused import 'android.os.Parcelable'.(õÃÀ­8ãôóø°.
+—
+java:S1319|"uThe type of the "challenges" object should be an interface such as "List" rather than the implementation "ArrayList".(¥Ñÿìüÿÿÿÿ8´“èø°.
+c	java:S112ú"FDefine and throw a dedicated exception instead of using a generic one.(ÝŒÜ±8ÿ·æü°.
+o	java:S101Ô"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(šÏøÖþÿÿÿÿ8ä‰¤„±.
+T
+java:S11358"2Complete the task associated to this TODO comment.(ÜûŠ—øÿÿÿÿ8÷æöû°.
+P
+java:S1135í"2Complete the task associated to this TODO comment.(åµÈ¶8ÿ·æü°.
+?	java:S131‡""Add a default case to this switch.(ŽºÖ8ÿ·æü°.
+S
+java:S1068_"1Remove this unused "playWhenReady" private field.(ïôèÑþÿÿÿÿ8–©÷þ°.
+^	java:S125´"<This block of commented-out lines of code should be removed.(Î³Äœýÿÿÿÿ8ÿ·æü°.
+^	java:S125Þ"<This block of commented-out lines of code should be removed.(‹ëª¥øÿÿÿÿ8ÿ·æü°.
+P
+java:S1135ÿ"2Complete the task associated to this TODO comment.(‡‚ùˆ8ÿ·æü°.
+S
+java:S1068["1Remove this unused "mTimerRunning" private field.(üÉ¼®ýÿÿÿÿ8÷æöû°.
+Y	java:S125¤"<This block of commented-out lines of code should be removed.(ÐÒþ”8’¿óü°.
+Y	java:S125»"<This block of commented-out lines of code should be removed.(Ü¦³–8óôóü°.
+^	java:S125Ã"<This block of commented-out lines of code should be removed.(¼è÷ïøÿÿÿÿ8¶ó¦„±.
+I
+java:S1481–"&Remove this unused "a" local variable.(¥Ÿëþÿÿÿÿ8÷æöû°.
+Y	java:S125¡"<This block of commented-out lines of code should be removed.(ó¼¥Ø8–©÷þ°.
+T
+java:S1135d"2Complete the task associated to this TODO comment.(ðï¢öúÿÿÿÿ8÷æöû°.
+^	java:S125Ê"<This block of commented-out lines of code should be removed.(“’Ã„ùÿÿÿÿ8ÿ·æü°.
+^	java:S125Ï"<This block of commented-out lines of code should be removed.(Ûêøôþÿÿÿÿ8ÿ·æü°.
+Y	java:S125°"<This block of commented-out lines of code should be removed.(öÌð8óôóü°.
+^	java:S125ï"<This block of commented-out lines of code should be removed.(ýïùÿÿÿÿ8ÿ·æü°.
+i
+java:S1301‡"KReplace this "switch" statement by "if" statements to increase readability.(ŽºÖ8ÿ·æü°.
+Y	java:S125­"<This block of commented-out lines of code should be removed.(ŽË­¦8óôóü°.
+S
+java:S2696·"6Make the enclosing method "static" or remove this set.(äÏ¶>8„Û‹ÿ°.
+s
+java:S1450e"VRemove the "mParam1" field and declare it as a local variable in the relevant methods.(•Íï‘8ÇË·ü°.

@@ -1,0 +1,14 @@
+
+E	java:S108a")Either remove or fill this block of code.(‡ñÛÙ8€¡ı‚±.
+F	java:S108£")Either remove or fill this block of code.(å¥‡8çøÆ„±.
+k
+java:S1192k"IDefine a constant instead of duplicating this literal "2/6/2020" 3 times.(§³Æ‹ıÿÿÿÿ8£¬Š‚±.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ïĞé¹°.
+X	java:S125"<This block of commented-out lines of code should be removed.(§ª„Ï8¨êà‚±.
+[
+java:S11558">Use isEmpty() to check whether the collection is empty or not.(ğ€Ûñ8ÙÅƒ±.
+E	java:S1088")Either remove or fill this block of code.(ğ€Ûñ8â ü‚±.
+[
+java:S1155a">Use isEmpty() to check whether the collection is empty or not.(‡ñÛÙ8İƒ±.
+]	java:S125"<This block of commented-out lines of code should be removed.(áíüÈùÿÿÿÿ8¨êà‚±.

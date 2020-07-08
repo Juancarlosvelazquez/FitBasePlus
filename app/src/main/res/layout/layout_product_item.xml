@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/id_main_container_product"
+    android:layout_height="wrap_content">
+
+
+
+    <ImageView
+        android:id="@+id/productImage"
+        android:layout_width="90dp"
+        android:adjustViewBounds="true"
+        android:padding="12dp"
+        android:layout_height="100dp"
+        android:src="@drawable/user" />
+
+
+    <TextView
+        android:id="@+id/pricePoint"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/productImage"
+        android:textStyle="bold"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:textSize="18sp"
+        android:textColor="@android:color/black"
+        android:text="500,0000 Points" />
+
+
+    <TextView
+        android:id="@+id/productName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/productImage"
+        android:layout_below="@+id/pricePoint"
+        android:layout_marginTop="5dp"
+        android:textSize="16sp"
+        android:layout_marginLeft="10dp"
+        android:textColor="@android:color/black"
+        android:text="Support Thermo" />
+
+
+    <TextView
+        android:id="@+id/productBy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/productImage"
+        android:layout_below="@+id/productName"
+        android:layout_marginTop="5dp"
+        android:textSize="15sp"
+        android:layout_marginLeft="10dp"
+        android:textColor="@android:color/black"
+        android:text="Brought by: Nike" />
+
+
+
+    <TextView
+        android:id="@+id/expirationDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/productImage"
+        android:textSize="14sp"
+        android:layout_marginLeft="10dp"
+        android:textColor="@android:color/darker_gray"
+        android:text="8/31/2020" />
+
+
+    <TextView
+        android:id="@+id/availability"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentRight="true"
+        android:textSize="15sp"
+        android:gravity="center"
+        android:layout_centerInParent="true"
+        android:layout_marginRight="8dp"
+        android:layout_marginLeft="30dp"
+        android:background="@drawable/circular_view"
+        android:textColor="@android:color/black"
+        android:text="20" />
+
+
+
+
+
+
+</RelativeLayout>

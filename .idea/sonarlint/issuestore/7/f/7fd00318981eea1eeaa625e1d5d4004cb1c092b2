@@ -1,0 +1,29 @@
+
+Y	java:S125›"<This block of commented-out lines of code should be removed.(±«Ñº8ÔøžÚ°.
+X	java:S125]"<This block of commented-out lines of code should be removed.(¨òãŸ8ÔøžÚ°.
+Œ
+java:S1319-"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ñóÌ8ÇÈø°.
+Y	java:S125¡"<This block of commented-out lines of code should be removed.(Ÿ¤–³8ÔøžÚ°.
+]	java:S125?"<This block of commented-out lines of code should be removed.(ÖÎ¸žùÿÿÿÿ8üËÐÙ°.
+Y	java:S125”"<This block of commented-out lines of code should be removed.(±«Ñº8ÔøžÚ°.
+U
+java:S1135 "2Complete the task associated to this TODO comment.(ñ•Ôøÿÿÿÿ8ÔøžÚ°.
+O
+java:S1068$"-Remove this unused "TYPE_TEXT" private field.(Œ «Ëúÿÿÿÿ8êîšÚ°.
+Y	java:S125‰"<This block of commented-out lines of code should be removed.(”íì¤8ÔøžÚ°.
+^	java:S125‹"<This block of commented-out lines of code should be removed.(Ã«äÛþÿÿÿÿ8ÔøžÚ°.
+Y	java:S125"<This block of commented-out lines of code should be removed.(ŸûÀ°8ÔøžÚ°.
+s	java:S116C"WRename this field "img_playback" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ½ ³8„ëâÕ°.
+^	java:S125ˆ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ÔøžÚ°.
+^	java:S125Þ"<This block of commented-out lines of code should be removed.(êÃ˜Æúÿÿÿÿ8ÔøžÚ°.
+`
+java:S1128">Remove this unused import 'androidx.cardview.widget.CardView'.(ðÒ³ãýÿÿÿÿ8·¿˜ø°.
+X	java:S1259"<This block of commented-out lines of code should be removed.(ïÏÆÀ8«³íÕ°.
+E	java:S108Ò")Either remove or fill this block of code.(ïõÙE8ŸÃíÛ°.
+]	java:S125x"<This block of commented-out lines of code should be removed.(†Œàðüÿÿÿÿ8ÔøžÚ°.
+I
+java:S1659$"'Declare "TYPE_TEXT" on a separate line.(Œ «Ëúÿÿÿÿ8„ëâÕ°.
+s	java:S116A"RRename this field "img_vol" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥„íãùÿÿÿÿ8„ëâÕ°.
+]	java:S125{"<This block of commented-out lines of code should be removed.(º¥ýÿÿÿÿ8ÔøžÚ°.
+\
+java:S1128":Remove this unused import 'android.widget.RelativeLayout'.(ü¯ðõþÿÿÿÿ8õÚ€‚±.

@@ -1,0 +1,54 @@
+<!--<resources>-->
+<!--    <string name="app_name">FitBase</string>-->
+
+<!--    &lt;!&ndash; TODO: Remove or change this placeholder text &ndash;&gt;-->
+<!--    <string name="hello_blank_fragment">Hello blank fragment</string>-->
+<!--</resources>-->
+
+
+<resources>
+<string name="app_name">FitBase</string>
+<string name="settings">Settings</string>
+<string name="loading">measuring</string>
+<string name="weight">weight</string>
+<string name="height">height</string>
+<string name="birthday">birthday</string>
+<string name="gender">gender</string>
+<string name="query">query</string>
+<string name="get_steps_sum">get steps sum in last</string>
+<string name="execute">execute</string>
+<string name="result">result</string>
+<string name="get_steps_completed_days">get the number of scored days (challenge of steps) in last</string>
+<string name="get_burned_calories">get burned calories in last</string>
+<string name="male">male</string>
+<string name="female">female</string>
+<string name="unknown">unknown</string>
+<string name="bmi">weight bmi</string>
+<string name="weight_muscles">weight muscles</string>
+<string name="refresh">refresh</string>
+<string name="no_data">no data</string>
+<string name="real_time_sport_data">Real Time Sport Data</string>
+<string name="reading_status">reading status:</string>
+<string name="heart_rate">%d bpm</string>
+<string name="steps_challenge_days">\'step challenge\' completed days: %d</string>
+<string name="steps_daily_sums">%tF : %d steps</string>
+<string name="calories_daily_sums">%tF : %d cal</string>
+<string name="label_rri">RRI:</string>
+<string name="label_weight">weight</string>
+<string name="button_save_weight">write</string>
+<string name="label_queries">queries</string>
+<string name="label_queries_since">since (days ago):</string>
+<string name="label_queries_till">till (days ago)</string>
+<string name="buton_steps">steps</string>
+<string name="button_calories">calories</string>
+<string name="button_steps_challenge">steps challenge</string>
+<string name="button_sleep">sleep</string>
+<string name="button_walk">walk</string>
+<string name="button_run">run</string>
+<string name="button_cycle">cycle</string>
+<string name="button_delete_weight">delete weight</string>
+<string name="permissions_dialog_title">PERMISSION NEEDED</string>
+<string name="permissions_dialog_message">Go to settings and allow required permissions</string>
+
+
+</resources>

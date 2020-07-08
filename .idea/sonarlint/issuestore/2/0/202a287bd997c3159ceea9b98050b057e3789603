@@ -1,0 +1,6 @@
+
+5
+java:S1700"Rename field "Followers"(¯ğœµ8Û²øĞ°.
+{
+java:S2637;"^"userName" is marked "androidx.annotation.NonNull" but is not initialized in this constructor.(¼½Ùµ8ˆèÖ°.
+p	java:S116"TRename this field "Followers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ğœµ8Û²øĞ°.

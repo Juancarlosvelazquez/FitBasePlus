@@ -1,0 +1,28 @@
+
+]	java:S125}"<This block of commented-out lines of code should be removed.(¼è÷ïøÿÿÿÿ8¯š–ƒ±.
+A
+java:S1068;"+Remove this unused "mParam1" private field.(•Íï‘
+I
+java:S1135ô"2Complete the task associated to this TODO comment.(‡‚ùˆ
+l
+java:S1450<"VRemove the "mParam2" field and declare it as a local variable in the relevant methods.(¡ˆ€ 
+\	java:S112Ñ"FDefine and throw a dedicated exception instead of using a generic one.(İŒÜ±
+^	java:S125¶"<This block of commented-out lines of code should be removed.(¥óÖ´ıÿÿÿÿ8ŞÑ­â°.
+l
+java:S1450;"VRemove the "mParam1" field and declare it as a local variable in the relevant methods.(•Íï‘
+]	java:S125"<This block of commented-out lines of code should be removed.(ÊŒîñûÿÿÿÿ8¯š–ƒ±.
+o	java:S101‡"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¡‡­Èúÿÿÿÿ8£­ƒ±.
+V
+java:S3398£"3Move this method into "getProductDataFromDataBase".(Âöêúÿÿÿÿ8ö½¢ƒ±.
+M
+java:S1135*"2Complete the task associated to this TODO comment.(ÜûŠ—øÿÿÿÿ
+M
+java:S1135L"2Complete the task associated to this TODO comment.(ßíŠÿÿÿÿÿ
+I
+java:S1135Ä"2Complete the task associated to this TODO comment.(åµÈ¶
+]	java:S125g"<This block of commented-out lines of code should be removed.(¼è÷ïøÿÿÿÿ8¯š–ƒ±.
+A
+java:S1068<"+Remove this unused "mParam2" private field.(¡ˆ€ 
+]	java:S125r"<This block of commented-out lines of code should be removed.(¼è÷ïøÿÿÿÿ8¯š–ƒ±.
+M
+java:S1135:"2Complete the task associated to this TODO comment.(ğï¢öúÿÿÿÿ
