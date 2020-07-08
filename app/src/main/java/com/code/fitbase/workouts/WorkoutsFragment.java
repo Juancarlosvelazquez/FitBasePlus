@@ -412,9 +412,6 @@ public class WorkoutsFragment extends Fragment {
                 updateCountDownText();
             }
 
-
-
-
             @Override
             public void onFinish() {
                 mTimerRunning = false;

@@ -9,7 +9,7 @@
 <resources>
 <string name="app_name">FitBase</string>
 <string name="settings">Settings</string>
-<string name="loading">measuring</string>
+<string name="loading">loading</string>
 <string name="weight">weight</string>
 <string name="height">height</string>
 <string name="birthday">birthday</string>

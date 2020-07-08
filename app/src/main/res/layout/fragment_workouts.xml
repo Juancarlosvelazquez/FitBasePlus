@@ -103,8 +103,8 @@
                     android:id="@+id/lavHeartBeat"
                     android:layout_width="71dp"
                     android:layout_height="33dp"
-                    android:layout_marginTop="0dp"
-                    android:layout_marginBottom="0dp"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginBottom="8dp"
                     app:lottie_autoPlay="true"
                     app:lottie_fileName="heartbeat.json"
                     app:lottie_loop="true"
@@ -115,11 +115,8 @@
                 <TextView
                     android:id="@+id/heart_rate"
                     style="@style/resultText"
-
                     android:layout_width="54dp"
-
-                    android:layout_height="28dp"
-                    android:layout_marginTop="10dp"
+                    android:layout_height="38dp"
                     android:text="@string/loading"
                     tools:layout_conversion_absoluteHeight="16dp"
                     tools:layout_conversion_absoluteWidth="37dp" />
