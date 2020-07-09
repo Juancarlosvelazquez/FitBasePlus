@@ -102,7 +102,9 @@ public class MainActivity extends AppCompatActivity implements PointsFragment.On
 
             pointsLabel.setText(MainActivity.userCurrentPoints);
         }
+
     }
+
 
     @OnClick({R.id.profileImage, R.id.challenges_label, R.id.points_label})
     public void onClick(View view) {
