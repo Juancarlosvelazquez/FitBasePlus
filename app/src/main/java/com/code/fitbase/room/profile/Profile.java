@@ -6,7 +6,10 @@ import androidx.room.Entity;
 import androidx.room.PrimaryKey;
 
 import java.io.Serializable;
-
+/**
+ * Develop by Muazzam Abbas
+ * Skype name muazzam.n-sol
+ */
 @Entity(tableName = "Profiles")
 public class Profile implements Serializable {
 

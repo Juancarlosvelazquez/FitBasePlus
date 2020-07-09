@@ -21,9 +21,7 @@ import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
 import com.code.fitbase.MainActivity;
-import com.code.fitbase.MainViewModel;
 import com.code.fitbase.R;
-import com.code.fitbase.databinding.ActivityMainBinding;
 import com.code.fitbase.room.FitBaseAppDatabase;
 import com.code.fitbase.room.challenges.Challenges;
 import com.code.fitbase.room.profile.Profile;
@@ -45,22 +43,6 @@ import java.util.Locale;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
-
-import androidx.appcompat.app.AlertDialog;
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.lifecycle.ViewModelProvider;
-
-
-import com.code.fitbase.databinding.FragmentWorkoutsBinding;
-import com.code.fitbase.model.DailyCaloriesData;
-import com.code.fitbase.model.DailyStepsData;
-
-
-
-import java.util.Date;
-
-import static com.code.fitbase.util.Utils.nDaysAgo;
-
 
 
 public class WorkoutsFragment extends Fragment {
@@ -107,9 +89,6 @@ public class WorkoutsFragment extends Fragment {
     private int currentWindow = 0;
     private long playbackPosition = 0;
 
-    private MainViewModel viewModel;
-    private FragmentWorkoutsBinding binding;
-
 
     // TODO: Rename and change types of parameters
     private String mParam1;
@@ -152,16 +131,6 @@ public class WorkoutsFragment extends Fragment {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        binding = FragmentWorkoutsBinding.inflate(getLayoutInflater());
-//        setContentView(binding.getRoot());
-        viewModel = new ViewModelProvider(this).get(MainViewModel.class);
-
-        setupOnClickListeners();
-
-//        setupAuthObservers();
-        setupQueryObservers();
-
-
         index = 0;
         if (getArguments() != null) {
             mParam1 = getArguments().getString(ARG_PARAM1);
@@ -177,93 +146,6 @@ public class WorkoutsFragment extends Fragment {
         }
 
     }
-
-    @Override
-    public void onResume() {
-        super.onResume();
-        viewModel.checkAuthorizationStatus();
-    }
-
-//    private void setupAuthObservers() {
-//        viewModel.getAuthStatus().observe(this, permissionStatus -> {
-//            switch (permissionStatus) {
-//                case REQUEST_AUTHORIZATION:
-//                case PERMISSION_NOT_GRANTED:
-//                    askForPermissions();
-//                    break;
-//                case GOT_PERMISSION:
-//                    viewModel.fetchHealthInfo();
-//                    break;
-//                default:
-//                    finish();
-//                    break;
-//            }
-//        });
-//    }
-
-    private void setupQueryObservers() {
-
-        viewModel.getHeartRate().observe(this, value -> binding.heartRate.setText(getString(R.string.heart_rate, value.getHeartBitRate())));
-
-//        viewModel.getStepSum().observe(this, stepsData -> {
-//            StringBuilder stringBuilder = new StringBuilder();
-//            for (DailyStepsData datum : stepsData) {
-//                stringBuilder
-//                        .append(getString(R.string.steps_daily_sums,
-//                                datum.getDate(),
-//                                datum.getSteps()))
-//                        .append("\n");
-//            }
-//            binding.queryResults.setText(stringBuilder.toString());
-//        });
-
-//        viewModel.getCaloriesSum().observe(this, caloriesDailyData -> {
-//            StringBuilder stringBuilder = new StringBuilder();
-//            for (DailyCaloriesData datum : caloriesDailyData) {
-//                stringBuilder
-//                        .append(getString(R.string.calories_daily_sums,
-//                                datum.getDate(),
-//                                datum.getCalories()))
-//                        .append("\n");
-//            }
-//            binding.queryResults.setText(stringBuilder.toString());
-//        });
-    }
-
-    private void setupOnClickListeners() {
-//        binding.getDailyStepsData.setOnClickListener(v -> {
-//            cleanQueryResults();
-//            viewModel.fetchStepSum(getQuerySinceDate(), getQueryTillDate());
-//        });
-//
-//        binding.geCaloriesData.setOnClickListener(v -> {
-//            cleanQueryResults();
-//            viewModel.fetchCaloriesSum(getQuerySinceDate(), getQueryTillDate());
-//        });
-
-    }
-
-//    private void cleanQueryResults() {
-//        binding.queryResults.setText(null);
-//    }
-//
-//    private Date getQuerySinceDate() {
-//        return nDaysAgo(binding.querySince);
-//    }
-//
-//    private Date getQueryTillDate() {
-//        return nDaysAgo(binding.queryTill);
-//    }
-
-//    void askForPermissions() {
-//        new AlertDialog.Builder(this)
-//                .setTitle(R.string.permissions_dialog_title)
-//                .setMessage(R.string.permissions_dialog_message)
-//                .setPositiveButton(R.string.settings, (dialog, which) -> viewModel.requestAuthorization())
-//                .setNegativeButton(android.R.string.no, (dialog, which) -> finish())
-//                .setIcon(android.R.drawable.ic_dialog_alert)
-//                .show();
-//    }
 
     private void initializePlayer(String url) {
         player = ExoPlayerFactory.newSimpleInstance(getActivity());

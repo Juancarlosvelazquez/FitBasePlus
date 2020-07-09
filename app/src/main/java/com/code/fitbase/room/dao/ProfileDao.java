@@ -8,7 +8,10 @@ import androidx.room.Update;
 import com.code.fitbase.room.profile.Profile;
 
 import java.util.List;
-
+/**
+ * Develop by Muazzam Abbas
+ * Skype name muazzam.n-sol
+ */
 @Dao
 public interface ProfileDao {
 

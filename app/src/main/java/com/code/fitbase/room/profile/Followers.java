@@ -4,7 +4,10 @@ import androidx.annotation.NonNull;
 import androidx.room.ColumnInfo;
 import androidx.room.Entity;
 import androidx.room.PrimaryKey;
-
+/**
+ * Develop by Muazzam Abbas
+ * Skype name muazzam.n-sol
+ */
 @Entity(tableName = "Followers")
 public class Followers {
 

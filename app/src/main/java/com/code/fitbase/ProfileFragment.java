@@ -43,7 +43,11 @@ import butterknife.OnClick;
 import static android.app.Activity.RESULT_OK;
 
 
-
+/**
+ /**
+ * Develop by Muazzam Abbas
+ * Skype name muazzam.n-sol
+ */
 public class ProfileFragment extends Fragment {
     // TODO: Rename parameter arguments, choose names that match
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER

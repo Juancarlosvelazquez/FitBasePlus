@@ -9,7 +9,10 @@ import com.code.fitbase.room.products.Prizes;
 import com.code.fitbase.room.products.ProductOwners;
 
 import java.util.List;
-
+/**
+ * Develop by Muazzam Abbas
+ * Skype name muazzam.n-sol
+ */
 @Dao
 public interface ProductOwnersDao {
 
