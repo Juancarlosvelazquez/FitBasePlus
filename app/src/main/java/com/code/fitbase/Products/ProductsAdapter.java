@@ -19,7 +19,7 @@ import com.bumptech.glide.Glide;
 import com.bumptech.glide.request.target.CustomTarget;
 import com.bumptech.glide.request.transition.Transition;
 import com.code.fitbase.IOnProductItemClicked;
-import com.code.fitbase.MainActivity;
+import com.code.fitbase.MainActivityHiHealth;
 import com.code.fitbase.R;
 import com.code.fitbase.room.products.Prizes;
 import com.squareup.picasso.Picasso;
