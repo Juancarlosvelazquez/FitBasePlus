@@ -1,3 +1,3 @@
-# FitBaseApp
+# FitBasePlus
 
-This is the prototype version of the FitBase App which is currently in development.
+This is the prototype version of the FitBasePlus App which is currently in development.
